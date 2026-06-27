@@ -8,6 +8,7 @@ A REST API to manage employees built with Node.js, Express.js and MongoDB.
 - Get an employee by ID
 - Update an employee
 - Delete an employee
+- Filter employee by department
 
 ## Tech Stack
 - Node.js
